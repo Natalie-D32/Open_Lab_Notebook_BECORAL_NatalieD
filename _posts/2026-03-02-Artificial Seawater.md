@@ -4,19 +4,19 @@ Based on [“Preparation of Artificial Seawater"](https://aslopubs.onlinelibrary
 
 
 ## Materials 
-Gloves
-Lab Coat
-Safety Glasses 
-10 L Carboy with spigot 
-Access to D.I. water
-Scale
-Weight boats
-Spatula
-1500 ml Flask
-500 ml Flask
-100 ml Flask
-4 Stir bars
-1-2 Stir plates
+*Gloves
+*Lab Coat
+*Safety Glasses 
+*10 L Carboy with spigot 
+*Access to D.I. water
+*Scale
+*Weight boats
+*Spatula
+*1500 ml Flask
+*500 ml Flask
+*100 ml Flask
+*4 Stir bars
+*1-2 Stir plates
 
 
 ## Salts
