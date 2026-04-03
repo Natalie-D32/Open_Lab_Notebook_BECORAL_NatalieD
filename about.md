@@ -23,3 +23,10 @@ Department of Marine and Coastal Sciences
 New Brunswick, NJ 08901, USA
 
 Email: prada@marine.rutgers.edu
+
+## CV
+
+### Natalie Dinerman				
+Email: ngd34@scarletmail.rutgers.edu
+_____________________________________________________________________________________________________________________
+### Education
